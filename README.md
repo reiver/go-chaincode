@@ -1,6 +1,6 @@
 # go-chaincode
 
-Package **chaincode** provides default **chain-codes** (or (so called) **currency-codes**) for different blockchain-networks, for the Go programming language.
+Package **chaincode** provides default **chain-codes** (i.e., (so called) **currency-codes**) for different blockchain-networks, for the Go programming language.
 
 (For example, for Ethereum mainnet (i.e., chain-id=1) the default **chain-code** is `"ETH"` (and not `"wei"`).)
 
