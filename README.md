@@ -4,7 +4,7 @@ Package **chaincode** provides default **chain-codes** (i.e., (so called) **curr
 
 (For example, for Ethereum mainnet (i.e., chain-id=1) the default **chain-code** is `"ETH"` (and not `"wei"`).)
 
-The data for the **chain currency-code**s comes from https://chaincode.network/
+The data for the **chain currency-code**s comes from https://chainid.network/
 
 This package provides those **chain-codes**s as **constants**, which are easily usable by programs written in the Go programming language.
 
